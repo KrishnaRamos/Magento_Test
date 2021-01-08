@@ -1,5 +1,5 @@
 {
-    "name": "conekta/conekta_payments",
+    "name": "conekta/conekta_payments_test",
     "description": "Conekta payment gateway",
     "require": {
         "magento/module-sales": "^103.0.0",
