@@ -9,7 +9,7 @@ Installation
 1. First add this repository in your composer config
 
     ```bash
-    composer config repositories.conekta git https://github.com/KrishnaRamos/Magento_Test.git
+    composer config repositories.conekta_test git https://github.com/KrishnaRamos/Magento_Test.git
     ```
 2. Add the dependency
 
